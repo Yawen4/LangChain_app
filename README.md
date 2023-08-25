@@ -19,5 +19,5 @@ Use the new GPT-4 API and open-source LLMs to build a chatbot for multiple Large
 - Chat UI with Streamlit.
 
 ## **WorkFlow**
-
+<img width="998" alt="Screenshot 2023-08-25 at 4 16 01 PM" src="https://github.com/Yawen4/LangChain_app/assets/103511470/78a30dbf-88f2-4ea2-99a6-b4f44264b8d0">
 
