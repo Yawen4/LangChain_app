@@ -1,11 +1,11 @@
 # **LangChain & LLMs -- Create a Chatbot with Your PDF Files/ Database**
 Use the new GPT-4 API and open-source LLMs to build a chatbot for multiple Large PDF files.
 **API:**
-1. GPT-4
+- GPT-4
 
 **Models:**
-1. WizardLM
-2. Falcon
+- WizardLM
+- Falcon
 Llama 2-7b
 Llama 2-13b
 Bloom
