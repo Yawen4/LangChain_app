@@ -1,5 +1,6 @@
 # **LangChain & LLMs -- Create a Chatbot with Your PDF Files/ Database**
 Use the new GPT-4 API and open-source LLMs to build a chatbot for multiple Large PDF files.
+
 **API:**
 - GPT-4
 
@@ -16,4 +17,7 @@ Use the new GPT-4 API and open-source LLMs to build a chatbot for multiple Large
 - Use the Retrieval chain to retrieve relevant passages from embedded text.
 - Summarize retrieved passages.
 - Chat UI with Streamlit.
+
+## **WorkFlow**
+
 
